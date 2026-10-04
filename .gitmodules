@@ -1,0 +1,15 @@
+[submodule "data-engineer"]
+	path = 00-data-engineer
+	url = git@github.com:anatermay/42-piscine-pedago-data-science-00-Data-Engineer.git
+[submodule "data-warehouse"]
+	path = 01-data-warehouse
+	url = git@github.com:anatermay/42-piscine-pedago-data-science-01-Data-Warehouse.git
+[submodule "02-data-analyst"]
+	path = 02-data-analyst
+	url = git@github.com:anatermay/42-piscine-pedago-data-science-02-Data-Analyst.git
+[submodule "03-data-scientist"]
+	path = 03-data-scientist
+	url = git@github.com:anatermay/42-piscine-pedago-data-science-03-Data-Scientist-Part-1.git
+[submodule "04-data-scientist"]
+	path = 04-data-scientist
+	url = git@github.com:anatermay/42-piscine-pedago-data-science-04-Data-Scientist-Part-2.git
