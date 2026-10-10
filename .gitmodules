@@ -7,9 +7,16 @@
 [submodule "02-data-analyst"]
 	path = 02-data-analyst
 	url = git@github.com:anatermay/42-piscine-pedago-data-science-02-Data-Analyst.git
+	branch = main
 [submodule "03-data-scientist"]
 	path = 03-data-scientist
 	url = git@github.com:anatermay/42-piscine-pedago-data-science-03-Data-Scientist-Part-1.git
+	branch = main
 [submodule "04-data-scientist"]
 	path = 04-data-scientist
 	url = git@github.com:anatermay/42-piscine-pedago-data-science-04-Data-Scientist-Part-2.git
+	branch = main
+[submodule "00-data-engineer"]
+	branch = main
+[submodule "01-data-warehouse"]
+	branch = main
